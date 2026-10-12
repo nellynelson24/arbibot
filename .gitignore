@@ -1,0 +1,11 @@
+/target
+/data
+.env
+.env.*
+!.env.example
+*.key
+.DS_Store
+
+# Notatki, plany i analizy tylko lokalnie
+/*.md
+!/README.md
